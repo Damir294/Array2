@@ -12,7 +12,7 @@ import java.util.Arrays;
         for(int element:arr){
         sum+=element;
         }
-        System.out.println("Сумма трат за месяц составит "+sum+" рублей\n");
+       // System.out.println("Сумма трат за месяц составит "+sum+" рублей\n");
 
                 //Задание 2
                 public static void задание2() {
@@ -47,7 +47,7 @@ import java.util.Arrays;
                         float average = sum / (float) arr.length;
                         System.out.println("Средняя сумма трат за месяц составила " + average + " рублей\n");
                 }
-        }
+
 
 
 
