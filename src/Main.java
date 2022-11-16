@@ -10,7 +10,7 @@ import java.util.Arrays;
         System.out.println(Arrays.toString(arr));
         int sum=0;
         for(int element:arr){
-        sum+=element;
+        //sum+=element;
         }
        // System.out.println("Сумма трат за месяц составит "+sum+" рублей\n");
 
